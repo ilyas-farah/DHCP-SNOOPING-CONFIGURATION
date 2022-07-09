@@ -32,3 +32,4 @@ exit
 ip dhcp pool abc
 default-router 10.0.0.1
 network 10.0.0.0 255.0.0.0
+![DHCP-SNOOPING ](https://user-images.githubusercontent.com/106605770/178120594-91ab2c9a-b0af-4102-b444-cb07a2b3f996.jpg)
