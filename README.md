@@ -1,5 +1,4 @@
 # DHCP-SNOOPING-CONFIGURATION
-DHCP SNOOPING CONFIGURATION
 ----------------------------
 DHCP-SERVER
 ------------
